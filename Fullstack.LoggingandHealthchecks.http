@@ -1,0 +1,6 @@
+@Fullstack.LoggingandHealthchecks_HostAddress = http://localhost:5026
+
+GET {{Fullstack.LoggingandHealthchecks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
